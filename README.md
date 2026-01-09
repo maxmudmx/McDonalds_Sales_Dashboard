@@ -64,7 +64,7 @@ Radar chart covering:
 ---
 
 ## 📁 Project Structure
-McDonalds_Sales_Dashboard.xlsx
-├── Dashboard # Main interactive dashboard
-├── Inputs # Source data
-├── Contacts # Reference / supporting information
+- **McDonalds_Sales_Dashboard.xlsx**
+- ├── Dashboard # Main interactive dashboard
+- ├── Inputs # Source data
+- ├── Contacts # Reference / supporting information
